@@ -1,0 +1,1 @@
+<center><h1>Welcome in page1 {{Auth::user()->name}}</h1></center>

@@ -1,0 +1,1 @@
+ <h1>Photo page - id is {{$id}} </h1>
